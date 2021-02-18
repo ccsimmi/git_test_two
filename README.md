@@ -1,0 +1,1 @@
+This project is a test of creating a repo via command line
